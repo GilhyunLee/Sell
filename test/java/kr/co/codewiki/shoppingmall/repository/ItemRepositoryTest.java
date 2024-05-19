@@ -26,7 +26,7 @@ class ItemRepositoryTest {
 //        item.setItemNm("테스트 상품");
 //        item.setPrice(10000);
 //        item.setItemDetail("테스트 상품 상세 설명");
-//        item.setItemSellStatus(ItemSellStatus.SELL); // enum 은 new 안해도 되는 듯?!?
+//        item.setItemSellStatus(ItemSellStatus.SELL); 
 //        item.setStockNum(100);
 //        item.setRegTime(LocalDateTime.now());
 //        item.setUpdateTime(LocalDateTime.now());
